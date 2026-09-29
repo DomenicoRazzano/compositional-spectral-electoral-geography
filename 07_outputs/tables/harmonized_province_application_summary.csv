@@ -1,0 +1,2 @@
+step,input_rows,output_rows,n_lookup_rows,n_unmatched_rows,n_distinct_elections,n_distinct_harmonized_provinces_overall,min_year,max_year,output_rds,output_csv
+03_apply_harmonized_provinces,2013504,2013504,151951,0,19,107,1948,2022,C:/Users/acer/OneDrive/Desktop/thesis_material/05_data/processed/camera_all_harmonized.rds,C:/Users/acer/OneDrive/Desktop/thesis_material/05_data/processed/camera_all_harmonized.csv

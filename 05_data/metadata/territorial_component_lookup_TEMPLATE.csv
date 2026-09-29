@@ -1,0 +1,359 @@
+election_date,year,component,territorial_group,notes,source
+19480418,1948,ALTRE LISTE,CAMPANIA,candidate: top_region_share=0.535; n_regions_positive=2,manual_review
+19480418,1948,AS.NAZ.CONG.DIS.GUER,LIGURIA,candidate: top_region_share=0.575; n_regions_positive=2,manual_review
+19480418,1948,BLOCCO POP.UNIONISTA,VENETO,candidate: top_region_share=0.174; n_regions_positive=12,manual_review
+19480418,1948,CONC.RUR.IND.AOSTA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,CONF.IT.LIBERI SIND.,CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,FR.ANTIBOLSCEVICO IT,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,FR.DEM.PROG.REPUB.,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,FR.UN.ANTICOM.RIS.N.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,GR.POL.LA DESTRA,SICILIA,candidate: top_region_share=0.793; n_regions_positive=2,manual_review
+19480418,1948,LEGA SARDA,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,M.CAT.IND.PAX JUSTIT,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,M.NAZ.SIN.DAN.GUERRA,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,MAGLIO,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,P.DEM.IND.PENSIONATI,VENETO,candidate: top_region_share=0.628; n_regions_positive=2,manual_review
+19480418,1948,P.ESISTENZIALISTA IT,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,P.INDIPENDENTE CONTADINI,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,P.PATRIA E LIBERTA',SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,RAGGRUP.POP.ITALIANO,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19480418,1948,UN.MOV.FEDERALISTI,SICILIA,candidate: top_region_share=0.929; n_regions_positive=5,manual_review
+19480418,1948,UN.SOCIAL.INDIP.,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,IND,BASILICATA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,IND.SIN.,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,LISTA MONARCHICA,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,M.FEMMINILE IT.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,M.GARIB.ANTIF.PART.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,MOV.NAZIONALE IT.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,MOV.SOC.CRISTIANO,LOMBARDIA,candidate: top_region_share=0.541; n_regions_positive=2,manual_review
+19530607,1953,P.CRIST.MILITANTE,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,P.ESISTENZIALISTA UN,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,P.FEDERALISTA IT.,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,P.MONARCHICO NAZ.IT.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,P.NAZIONALI FEDERATI,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,P.RADICAL SOCIALISTA,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,P.UN.SOCIALE IT.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,P.UNIONE NAZIONALE,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,P.VOLONTA'NAZIONALE,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,PPTT,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19530607,1953,PS D'AZ.,SARDEGNA,candidate: top_region_share=0.921; n_regions_positive=5,manual_review
+19580525,1958,AUT.PIEMONT-MOV.VIL.,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,FED.AUT.SOCIALDEM.IT,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,FR.DELL'INDIPENDENZA,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,FR.UNICO SOLDATO IT.,CALABRIA,candidate: top_region_share=0.596; n_regions_positive=2,manual_review
+19580525,1958,MOV.AZIONE-RINNOVAM.,ABRUZZO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,MOV.ECONOMICO IT.SOC,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,MOV.INDIP.DIVORZISTI,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,MOV.NAZIONALE IT.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,MOV.PRO PENSIONATI,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,P.IT.MUT.INV.GUERRA,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,P.SOC.SICILIANO,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,UNIONE TRIESTINA,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19580525,1958,UV,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,AV.NAZ.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,L.UNIT.SLOV.,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,MOV.COLT.E SAL.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,MOV.IND.TLT,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,MOV.POP.IT.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,PART.LAB.IT.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,PART.MON.NAZ.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,PART.SOC.CRIST.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19630428,1963,UN.NAZ.SAL.PUB.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,MOV.SOC.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,P.COM.RIVOL.,LAZIO,candidate: top_region_share=0.692; n_regions_positive=2,manual_review
+19680519,1968,P.PROG.UNSIPO,ABRUZZO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,P.RAD,LOMBARDIA,candidate: top_region_share=0.999; n_regions_positive=2,manual_review
+19680519,1968,PART.AGRICOLTORI,MOLISE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,PART.DEM.PROG.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,PART.NAZ.MUT.COMB.IT,MOLISE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,PART.ORD.ECON.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,PS D'AZ.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,PST.PROG.SOC.,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=0.992; n_regions_positive=2,manual_review
+19680519,1968,"RAG.VOL.""T""",LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,RAGGR.ITAL.,LAZIO,candidate: top_region_share=0.627; n_regions_positive=2,manual_review
+19680519,1968,RIS.POP.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,SACRO IDEAL.MONDO,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,UN.NAZ.SAL.PUB.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,UNIONE SLOVENA,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19680519,1968,UV,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,AZ.CR.POP.,LAZIO,candidate: top_region_share=0.806; n_regions_positive=2,manual_review
+19720507,1972,DC-UV-RV-PSDI,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,DEM.POP.,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,FR.NAZ.SIC.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,FR.UOMO QUALUNQUE,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,PAPI,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,PART.AGRICOLTORI,MOLISE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,PCS (MARX.-LEN.),SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,RINN.DEM.NAZ.,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19720507,1972,UN.FORZE DEM.,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19760620,1976,DEM.POP-UVP M.REG,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19760620,1976,MOV.IND.TLT,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19760620,1976,P.DEM.,EMILIA-ROMAGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19760620,1976,PART.BEN.CIV.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19760620,1976,PART.SIN.DEM.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19760620,1976,TIROL.,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19760620,1976,UNIONE SLOVENA,FRIULI-VENEZIA GIULIA,candidate: top_region_share=0.98; n_regions_positive=2,manual_review
+19790603,1979,ASS.VAL.IND,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,DC-PSDI-PRI,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,DEM.PROL,SARDEGNA,candidate: top_region_share=0.677; n_regions_positive=2,manual_review
+19790603,1979,FIORE MARGHERITA,ABRUZZO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,FR.NAZ.SIC.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,FRONTE GIUST.SIC.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,GIUST. E LIB.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,LISTA PER TRIESTE,FRIULI-VENEZIA GIULIA,candidate: top_region_share=0.998; n_regions_positive=4,manual_review
+19790603,1979,MOV.ECOL.SARDO,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,MOV.FRIULI,FRIULI-VENEZIA GIULIA,candidate: top_region_share=0.988; n_regions_positive=2,manual_review
+19790603,1979,MOV.POP.CRIST.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,NPP,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,P.DEM.,EMILIA-ROMAGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,PART.BEN.CIV.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,PART.CRIST.AZ.SOC.,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,PART.NAZ.PENS.,SARDEGNA,candidate: top_region_share=0.755; n_regions_positive=2,manual_review
+19790603,1979,PART.POP.CALAB.,CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,PART.SIN.DEM.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,PS D'AZ.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,UNIONE VALDOSTANA-DEMPROL-PLI,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19790603,1979,UNITA DELLA SINISTRA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,FR.NAZ.SIC.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,GIUST. E LIB.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,LISTA DI LOTTA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,MOV.ECOL.SARDO,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,MOV.FRIULI,FRIULI-VENEZIA GIULIA,candidate: top_region_share=0.992; n_regions_positive=2,manual_review
+19830626,1983,MOV.IND.TLT,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,MOV.POP.CRIST.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,NUOVA SINISTRA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,PART.CRIST.AZ.SOC.,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,PART.MON.NAZ.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,PART.NAZ.INQ.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,PART.SUD.TIROL,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,PLI-PRI-PSDI,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,POE,LOMBARDIA,candidate: top_region_share=0.683; n_regions_positive=2,manual_review
+19830626,1983,PPTT,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19830626,1983,PS D'AZ.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,UN.DIF.PENS.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,UN.PEN.PENS.IT.,LAZIO,candidate: top_region_share=0.656; n_regions_positive=2,manual_review
+19830626,1983,UNIONE SLOVENA,FRIULI-VENEZIA GIULIA,candidate: top_region_share=0.968; n_regions_positive=2,manual_review
+19830626,1983,UV-UVP-D.POP.,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19830626,1983,VIV.LIB.,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,ALL.PENS.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,DC-PCI-PSI-PSDI,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,GIUST. E LIB.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,LEGA LOMBARDA,LOMBARDIA,candidate: top_region_share=0.999; n_regions_positive=3,manual_review
+19870614,1987,MOV.FRIULI,FRIULI-VENEZIA GIULIA,candidate: top_region_share=0.989; n_regions_positive=2,manual_review
+19870614,1987,MOV.IND.TLT,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,MOV.NAZ.IT.CACC.,LOMBARDIA,candidate: top_region_share=0.51; n_regions_positive=2,manual_review
+19870614,1987,MOV.VEN.REG.AUT,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,P.VERDE I.VER.E.,CAMPANIA,candidate: top_region_share=0.523; n_regions_positive=2,manual_review
+19870614,1987,PART.NAZ.INQ.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,PART.SUD.TIROL,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,PARTIDU INDIP.,SARDEGNA,candidate: top_region_share=0.702; n_regions_positive=2,manual_review
+19870614,1987,PIEMONT,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,PIEMONT-AUT.REG.,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,PNI-CACCIA PESCA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,RINASCITA SIC.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,UV-ADP-PRI,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19870614,1987,VERDI IT.-P.ECOL,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,ALLEANZA LOMBARDA AUTONOMIA,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19920405,1992,C.S.T.,MARCHE,candidate: top_region_share=0.996; n_regions_positive=2,manual_review
+19920405,1992,E.ROMAGNA-LG PADANA,EMILIA-ROMAGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,GRUPPO DOLCHI-FOSSON,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,L.VALLE D'AOSTA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,LEGA ALPINA LUMBARDA,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19920405,1992,LEGA ALPINA PIEMONT,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,LEGA AUT.VENETA,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,LEGA LAZIO,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,LEGA MARCHE,MARCHE,candidate: top_region_share=0.989; n_regions_positive=2,manual_review
+19920405,1992,LEGA MERID.D'IT.,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,LG.LOMB.EUR.T.LIB.,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,LG.MERID.UN.NAZ.,BASILICATA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,LG.NAZ.PROTESTA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,MOV.AUT.TOSCANO,TOSCANA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,MOV.EUR.AUTOMOB.,EMILIA-ROMAGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,MOV.VEN.REG.AUT,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,MOVIMENTO DELLE LIBERTA',CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,P.CRIST.DEMOCRAZIA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,PART.AMORE,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,PART.GIUSTIZIALISTA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,PARTIDU INDIP.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,PIEMONT LIBER,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,PPST,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19920405,1992,RINNOVAMENTO,FRIULI-VENEZIA GIULIA,candidate: top_region_share=0.811; n_regions_positive=2,manual_review
+19920405,1992,UNION VENETO,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,VERDI-VERDI,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19920405,1992,VIVERE INSIEME,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,ADA,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19940327,1994,ALL.MERIDIONALE,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,ALL.MUNICIPALITA',ABRUZZO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,ALL.PER I CASTELLI,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,ALL.POP.,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,ALL.PROGRAMMA,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,AUTONOMIA SOCIALISTA,BASILICATA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,CENTRO CRIST.DEM.,MOLISE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,CENTRO DEMOCRATICO,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,DEM.E RINNOVAMENTO,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,DEM.E SOLIDARIETA',PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,DEMOCRAZIA SICILIANA,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,IDEA CITTA',CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,INIZIATIVA POP.DEM.,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,INSIEME PER CAMBIARE,BASILICATA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,INSIEME PER SVILUPPO,TOSCANA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,L'ARCA,CAMPANIA,candidate: top_region_share=0.647; n_regions_positive=2,manual_review
+19940327,1994,LEGA ALPINA LUMBARDA,LOMBARDIA,candidate: top_region_share=0.999; n_regions_positive=3,manual_review
+19940327,1994,LEGA AUT.VENETA,VENETO,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19940327,1994,LEGA D'AZIONE MERIDIONALE,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,LEGA PER IL PIEMONTE,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,LG.ANGELA BOSSI,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,LIBERAL DEM.EUROPEI,CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,LISTA FRANCO GRECO,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,LISTE VALDOSTANE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MEDITERRANEO,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MOV.CATTOLICO DEM.,MOLISE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MOV.CRIST.DEM.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MOV.CRIST.VERITAS,CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MOV.EUR.LIB.CRIST.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MOV.LIBERALDEM.SOC.,CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MOV.MERIDIONALE,CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MOV.POP.CRIST.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,MOV.REP.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,P.DEM.,EMILIA-ROMAGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,P.POP.PROGRESSISTA,MOLISE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,PARTIDU INDIP.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,PATTO SOLIDARIETA',LIGURIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,PROGRAMMA ITALIA,PUGLIA,candidate: top_region_share=0.763; n_regions_positive=2,manual_review
+19940327,1994,PROGRESSISTI,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,RIFORMISTI IRPINI,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,RIN.DEMOCRATICO,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,RIN.SALENTINA,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,RINASCITA SOCIALISTA,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,RINNOVAMENTO,PIEMONTE,candidate: top_region_share=0.847; n_regions_positive=2,manual_review
+19940327,1994,SOLID.OCCUPAZ.SVILUP,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,SOLID.PROGRESSO,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,SVP,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19940327,1994,UN.CRIST.RIF.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,UN.POP.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,UNIONE DEM.ITALIANA,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,UNIONE MEDITERRANEA,CALABRIA,candidate: top_region_share=0.667; n_regions_positive=2,manual_review
+19940327,1994,UNIONE POP.,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,UTOPIA,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19940327,1994,VERDI-VERDI,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,AMBIENTALISTI,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,DEMOCRAZIA SOCIALE,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,FEDERALISTI LIBERALI,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,GR.INDIP.LIBERTA',PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,LEGA D'AZIONE MERIDIONALE,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,LISTE VALDOSTANE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,MOV.AUT.TOSCANO,TOSCANA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,MOV.RIN.IT.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,NOI SICILIANI-FNS,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,NORD LIBERO AUT.,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,NUOVA DEMOCRAZIA,EMILIA-ROMAGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,NUOVE ENERGIE,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,PART.FEDERAL.,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,PART.LEGGE NATURALE,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19960421,1996,PATTO PER L'AGRO,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,PER LE MARCHE,MARCHE,candidate: top_region_share=0.993; n_regions_positive=2,manual_review
+19960421,1996,POLO PER LE LIBERTA',VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,PS D'AZ.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,RISORGIMENTO DEL SUD,MOLISE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,SARDIGNA NATZIONE,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,SVILUPPO-LEGALITA',CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,UNION FUR SUD TIROL,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+19960421,1996,UNIONE NORD EST,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,VALLE D'AOSTA-ULIVO,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+19960421,1996,VERDI-VERDI,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,CASA DELLE LIBERTA',VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,COMUNISMO,TOSCANA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,FORZA NUOVA,VENETO,candidate: top_region_share=0.742; n_regions_positive=2,manual_review
+20010513,2001,LEGA D'AZIONE MERIDIONALE,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,LIBDEM.BASTA,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,LIBERI E FORTI,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,LIGA FRONTE VENETO,VENETO,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20010513,2001,LISTA ALTERNATIVA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,LISTA AMADU,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,LISTE VALDOSTANE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,MOVIMENTO DELLE LIBERTA',CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,NOI SICILIANI,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,PARTITO PENSIONATI,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,PS D'AZ-SARD.NATZ.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,REPUBBLICANI EUROPEI,MARCHE,candidate: top_region_share=0.989; n_regions_positive=2,manual_review
+20010513,2001,SOCIAL.AUTON.,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,SVP,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20010513,2001,TERZO POLO AUTONOMIA,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20010513,2001,VERDI-VERDI,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,ALLEANZA LOMBARDA AUTONOMIA,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,AUT.LIB. DEMOCRATIE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,DESTRA NAZIONALE,ABRUZZO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,DIE FREIHEITLICHEN,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,DIMENSIONE CHRISTIANA,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,FI-AN,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,IRS,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,LEGA NORD V.D'AOSTE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,LEGA SUD,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,LIGA FRONTE VENETO,VENETO,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20060409,2006,MOV.DEM.SIC-NOI SIC.,SICILIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,MOVIMENTO TRIVENETO,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,PER IL SUD,CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,PROGETTO NORDEST,VENETO,candidate: top_region_share=0.943; n_regions_positive=2,manual_review
+20060409,2006,SARDIGNA NATZIONE,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20060409,2006,SVP,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20060409,2006,VALLEE D'AOSTE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,AUT.LIB. DEMOCRATIE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,AZ.SOCIALE MUSSOLINI,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,DIE FREIHEITLICHEN,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,IL LOTO,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,L'INTESA VENETA,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,LEGA PER L'AUTONOMIA ALL.LOMB. LEGA PENS,LOMBARDIA,candidate: top_region_share=0.999; n_regions_positive=2,manual_review
+20080413,2008,LEGA SUD,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,LG.VENETA REPUBBLICA,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,MOVIMENTO P.P.A.,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,PARTITO DI ALTERNATIVA COMUNISTA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,PS D'AZ.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,SARDIGNA NATZIONE,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,UNION FUR SUD TIROL,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20080413,2008,UNIONE DEMOCRATICA PER I CONSUMATORI,LOMBARDIA,candidate: top_region_share=0.153; n_regions_positive=19,manual_review
+20080413,2008,VALLEE D'AOSTE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,AUTONOMIE LIBERTE' DEMOCRATIE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,DEMOCRAZIA ATEA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,DIE FREIHEITLICHEN,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20130224,2013,I PIRATI,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,INDIPENDENZA PER LA SARDEGNA,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,INDIPENDENZA VENETA,VENETO,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20130224,2013,LG.VENETA REPUBBLICA,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,LIBERI PER UNA ITALIA EQUA,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,MERIS,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,MOVIMENTO P.P.A.,PIEMONTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,MOVIMENTO PROGETTO ITALIA - MID,LAZIO,candidate: top_region_share=0.525; n_regions_positive=2,manual_review
+20130224,2013,NATION VAL D'OUTA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,PARTITO DI ALTERNATIVA COMUNISTA,PUGLIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,POPOLARI UNITI,BASILICATA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,PRI,EMILIA-ROMAGNA,candidate: top_region_share=0.781; n_regions_positive=2,manual_review
+20130224,2013,PROGETTO NAZIONALE,VENETO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,PS D'AZ.,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,RIFONDAZIONE MISSINA ITALIANA,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,STAMINALI D'ITALIA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,SVP,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20130224,2013,TUTTI INSIEME PER L'ITALIA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,UNION VALDOTAINE PROGRESSISTE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,UNIONE POP.,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,VALLEE D'AOSTE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20130224,2013,VENETO STATO,VENETO,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20130224,2013,VOTO DI PROTESTA,CAMPANIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,AUTODETERMINATZIONE,SARDEGNA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,FI -FRAT. D'IT. -MOV.NUOVA VALLE D'AOSTA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,ITALIA NEL CUORE,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,PATTO PER L'AUTONOMIA,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,PD-UV-UVP-EPAV,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,POUR TOUS PER TUTTI PE TCHEUT,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,RINASCIMENTO MIR,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,RISPOSTA CIVICA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,SIAMO,FRIULI-VENEZIA GIULIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20180304,2018,SVP - PATT,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=2,manual_review
+20220925,2022,FORZA DEL POPOLO,CALABRIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20220925,2022,FREE,LOMBARDIA,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20220925,2022,LA RENAISSANCE VALDOTAINE,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20220925,2022,LEGA PER SALVINI PREM.-FORZA IT.-NOI MODERATI-FRAT. D'ITALIA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20220925,2022,PARTITO DELLA FOLLIA CREATIVA,LAZIO,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20220925,2022,SUD CHIAMA NORD,SICILIA,candidate: top_region_share=0.976; n_regions_positive=4,manual_review
+20220925,2022,SUDTIROLER VOLKSPARTEI (SVP) - PATT,TRENTINO-ALTO ADIGE/SÜDTIROL,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20220925,2022,VALLE D'AOSTA APERTA,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review
+20220925,2022,VALLEE D?AOSTE ? AUTONOMIE PROGRES FEDERALISME,VALLE D'AOSTA/VALLÉE D'AOSTE,candidate: top_region_share=1; n_regions_positive=1,manual_review

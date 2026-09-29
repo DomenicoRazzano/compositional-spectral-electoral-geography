@@ -1,0 +1,4 @@
+family,benchmark,selected_parameter,n_elections,median_spearman,median_pearson
+Tsagris--Preston--Wood alpha,Aitchison,0.15,19,0.9761436931022432,0.9678831250957524
+Greenacre unweighted power,Aitchison,0.15,19,0.9767174508542944,0.9405607736259552
+Greenacre weighted power,Weighted LRA,0.17500000000000002,19,0.9851931640976942,0.9828072982496112

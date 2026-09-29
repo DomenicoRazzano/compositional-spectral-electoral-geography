@@ -1,0 +1,3 @@
+election_date,bad_list_name,correct_list_name,reason
+20220925,#NOME?,+EUROPA,Excel interpreted +EUROPA as formula
+20220925,VALLEE D?AOSTE ? AUTONOMIE PROGRES FEDERALISME,VALLÉE D'AOSTE - AUTONOMIE PROGRÈS FÉDÉRALISME,Encoding correction

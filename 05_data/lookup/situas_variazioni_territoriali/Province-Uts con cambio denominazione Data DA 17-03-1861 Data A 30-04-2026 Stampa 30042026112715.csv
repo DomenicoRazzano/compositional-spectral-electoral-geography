@@ -1,0 +1,32 @@
+﻿Anno evento;Tipologia Provincia/Uts;Descrizione Tipologia;Sigla Provincia/Uts;Codice Provincia/Uts;Denominazione precedente;Data evento;Nuova denominazione;Codice Provincia/Uts associato
+2003;1;Provincia;AO;007;Valle d'Aosta;06/07/2003;Valle d'Aosta/Vallée d'Aoste;007
+1995;1;Provincia;FC;040;Forli;01/01/1995;Forlì-Cesena;040
+1951;1;Provincia;TA;073;Jonio;03/08/1951;Taranto;073
+1946;1;Provincia;MS;045;Apuania;04/03/1946;Massa-Carrara;045
+1945;1;Provincia;AO;007;Aosta;05/10/1945;Valle d'Aosta;007
+1945;1;Provincia;LT;059;Littoria;22/06/1945;Latina;059
+1940;1;Provincia;UD;030;Friuli;04/10/1940;Udine;030
+1940;1;Provincia;AQ;066;Aquila degli Abruzzi;11/01/1940;L'Aquila;066
+1938;1;Provincia;MS;045;Massa e Carrara;18/12/1938;Apuania;045
+1931;1;Provincia;BA;072;Bari delle Puglie;17/05/1931;Bari;072
+1930;1;Provincia;SP;011;Spezia;18/11/1930;La Spezia;011
+1927;1;Provincia;EN;086;Castrogiovanni;01/12/1927;Enna;086
+1927;1;Provincia;AG;084;Girgenti;27/07/1927;Agrigento;084
+1923;1;Provincia;IM;008;Porto Maurizio;14/12/1923;Imperia;008
+1923;1;Provincia;UD;030;Udine;08/02/1923;Friuli;030
+1881;1;Provincia;PG;054;Umbria;31/12/1881;Perugia;054
+1881;1;Provincia;CE;061;Terra del Lavoro;31/12/1881;Caserta;061
+1881;1;Provincia;AV;064;Principato Ulteriore;31/12/1881;Avellino;064
+1881;1;Provincia;SA;065;Principato Citeriore;31/12/1881;Salerno;065
+1881;1;Provincia;TE;067;Abruzzo Ulteriore I;31/12/1881;Teramo;067
+1881;1;Provincia;CH;069;Abruzzo Citeriore;31/12/1881;Chieti;069
+1881;1;Provincia;CB;070;Molise;31/12/1881;Campobasso;070
+1881;1;Provincia;FG;071;Capitanata;31/12/1881;Foggia;071
+1881;1;Provincia;BA;072;Terra di Bari;31/12/1881;Bari delle Puglie;072
+1881;1;Provincia;LE;075;Terra d'Otranto;31/12/1881;Lecce;075
+1881;1;Provincia;PZ;076;Basilicata;31/12/1881;Potenza;076
+1881;1;Provincia;CS;078;Calabria Citeriore;31/12/1881;Cosenza;078
+1881;1;Provincia;CZ;079;Calabria Ulteriore II;31/12/1881;Catanzaro;079
+1881;1;Provincia;RC;080;Calabria Ulteriore I;31/12/1881;Reggio di Calabria;080
+1865;1;Provincia;SR;089;Noto;01/07/1865;Siracusa;089
+1863;1;Provincia;AQ;066;Abruzzo Ulteriore II;21/06/1863;Aquila degli Abruzzi;066

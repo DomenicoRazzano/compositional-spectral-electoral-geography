@@ -1,0 +1,4 @@
+election_date_previous,year_previous,election_date_current,year_current,geometry,n_clusters,n_common_territories,adjusted_rand,normalized_mutual_information,variation_of_information,coassignment_pearson,example_type
+19760620,1976,19790603,1979,greenacre_weighted_power_0175,4,106,0.23322286870731093,0.3596033671514742,1.7367229929562669,0.23324916828342332,Low stability
+20180304,2018,20220925,2022,greenacre_weighted_power_0175,4,106,0.3959449563726994,0.4800894190621165,1.3097216396242637,0.4040346066521137,Typical stability
+20080413,2008,20130224,2013,greenacre_weighted_power_0175,4,106,0.6794013061529642,0.7069612680912012,0.8080613253268487,0.6794077401967253,High stability

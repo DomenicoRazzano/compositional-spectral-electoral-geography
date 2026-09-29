@@ -1,0 +1,49 @@
+﻿Anno evento;Tipologia Provincia/Uts;Descrizione Tipologia;Codice Provincia/Uts;Provincia/Uts;Sigla Provincia/Uts;Tipo variazione;Flag scorporo;Data evento;Codice Provincia/Uts associato;Provincia/Uts associata;Sigla Provincia/Uts associata;Tipologia Provincia/Uts associata;Descrizione tipologia associata
+2026;1;Provincia;090;Sassari;SS;ESCT;1;01/01/2026;113;Gallura Nord-Est Sardegna;OT;1;Provincia
+2026;1;Provincia;090;Sassari;SS;ESCT;1;01/01/2026;312;Sassari;SS;3;Città metropolitana
+2026;1;Provincia;111;Sud Sardegna;SU;ES;1;01/01/2026;114;Nuoro;NU;1;Provincia
+2026;1;Provincia;111;Sud Sardegna;SU;ES;1;01/01/2026;116;Ogliastra;OG;1;Provincia
+2026;1;Provincia;111;Sud Sardegna;SU;ES;1;01/01/2026;117;Medio Campidano;VS;1;Provincia
+2026;1;Provincia;111;Sud Sardegna;SU;ES;1;01/01/2026;119;Sulcis Iglesiente;CI;1;Provincia
+2026;1;Provincia;111;Sud Sardegna;SU;ES;1;01/01/2026;318;Cagliari;CA;3;Città metropolitana
+2018;1;Provincia;030;Udine;UD;ESCT;;22/04/2018;030;Udine;UD;5;Unità non amministrativa
+2017;1;Provincia;031;Gorizia;GO;ESCT;;30/09/2017;031;Gorizia;GO;5;Unità non amministrativa
+2017;1;Provincia;032;Trieste;TS;ESCT;;30/09/2017;032;Trieste;TS;5;Unità non amministrativa
+2017;1;Provincia;093;Pordenone;PN;ESCT;;30/09/2017;093;Pordenone;PN;5;Unità non amministrativa
+2016;1;Provincia;080;Reggio di Calabria;RC;ESCT;;29/12/2016;280;Reggio Calabria;RC;3;Città metropolitana
+2016;1;Provincia;081;Trapani;TP;ESCT;;06/06/2016;081;Trapani;TP;4;Libero consorzio di comuni
+2016;1;Provincia;082;Palermo;PA;ESCT;;06/06/2016;282;Palermo;PA;3;Città metropolitana
+2016;1;Provincia;083;Messina;ME;ESCT;;06/06/2016;283;Messina;ME;3;Città metropolitana
+2016;1;Provincia;084;Agrigento;AG;ESCT;;06/06/2016;084;Agrigento;AG;4;Libero consorzio di comuni
+2016;1;Provincia;085;Caltanissetta;CL;ESCT;;06/06/2016;085;Caltanissetta;CL;4;Libero consorzio di comuni
+2016;1;Provincia;086;Enna;EN;ESCT;;06/06/2016;086;Enna;EN;4;Libero consorzio di comuni
+2016;1;Provincia;087;Catania;CT;ESCT;;06/06/2016;287;Catania;CT;3;Città metropolitana
+2016;1;Provincia;088;Ragusa;RG;ESCT;;06/06/2016;088;Ragusa;RG;4;Libero consorzio di comuni
+2016;1;Provincia;089;Siracusa;SR;ESCT;;06/06/2016;089;Siracusa;SR;4;Libero consorzio di comuni
+2016;1;Provincia;092;Cagliari;CA;ESCT;1;28/04/2016;111;Sud Sardegna;SU;1;Provincia
+2016;1;Provincia;092;Cagliari;CA;ESCT;1;28/04/2016;292;Cagliari;CA;3;Città metropolitana
+2016;1;Provincia;104;Olbia-Tempio;OT;ES;;28/04/2016;090;Sassari;SS;1;Provincia
+2016;1;Provincia;105;Ogliastra;OG;ES;1;28/04/2016;091;Nuoro;NU;1;Provincia
+2016;1;Provincia;105;Ogliastra;OG;ES;1;28/04/2016;111;Sud Sardegna;SU;1;Provincia
+2016;1;Provincia;106;Medio Campidano;VS;ES;;28/04/2016;111;Sud Sardegna;SU;1;Provincia
+2016;1;Provincia;107;Carbonia-Iglesias;CI;ES;;28/04/2016;111;Sud Sardegna;SU;1;Provincia
+2015;1;Provincia;001;Torino;TO;ESCT;;01/01/2015;201;Torino;TO;3;Città metropolitana
+2015;1;Provincia;010;Genova;GE;ESCT;;01/01/2015;210;Genova;GE;3;Città metropolitana
+2015;1;Provincia;015;Milano;MI;ESCT;;01/01/2015;215;Milano;MI;3;Città metropolitana
+2015;1;Provincia;027;Venezia;VE;ESCT;;01/01/2015;227;Venezia;VE;3;Città metropolitana
+2015;1;Provincia;037;Bologna;BO;ESCT;;01/01/2015;237;Bologna;BO;3;Città metropolitana
+2015;1;Provincia;048;Firenze;FI;ESCT;;01/01/2015;248;Firenze;FI;3;Città metropolitana
+2015;1;Provincia;058;Roma;RM;ESCT;;01/01/2015;258;Roma;RM;3;Città metropolitana
+2015;1;Provincia;063;Napoli;NA;ESCT;;01/01/2015;263;Napoli;NA;3;Città metropolitana
+2015;1;Provincia;072;Bari;BA;ESCT;;01/01/2015;272;Bari;BA;3;Città metropolitana
+1947;1;Provincia;701;Fiume;FU;AS;;16/09/1947;;Stato estero;;;
+1947;1;Provincia;702;Istria (Pola);PL;AS;;16/09/1947;;Stato estero;;;
+1947;1;Provincia;703;Zara;ZA;AS;;16/09/1947;;Stato estero;;;
+1927;1;Provincia;061;Caserta;CE;ES;1;12/01/1927;058;Roma;RM;1;Provincia
+1927;1;Provincia;061;Caserta;CE;ES;1;12/01/1927;060;Frosinone;FR;1;Provincia
+1927;1;Provincia;061;Caserta;CE;ES;1;12/01/1927;062;Benevento;BN;1;Provincia
+1927;1;Provincia;061;Caserta;CE;ES;1;12/01/1927;063;Napoli;NA;1;Provincia
+1927;1;Provincia;061;Caserta;CE;ES;1;12/01/1927;070;Campobasso;CB;1;Provincia
+1923;1;Provincia;802;Venezia Tridentina;TN;ES;1;14/02/1923;022;Trento;TN;1;Provincia
+1923;1;Provincia;802;Venezia Tridentina;TN;ES;1;14/02/1923;025;Belluno;BL;1;Provincia
+1923;1;Provincia;801;Venezia Giulia;Venezia Giulia;ES;;08/02/1923;703;Zara;ZA;1;Provincia

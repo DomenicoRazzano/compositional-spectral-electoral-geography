@@ -1,0 +1,97 @@
+﻿election_date,municipality,province_raw,district_raw,plurinominal_college_raw,uninominal_college_raw,province_actual_manual,actual_resolution_reason
+19940327,BRIONE,,LOMBARDIA 2,,LUMEZZANE,BRESCIA,manual_from_electoral_district_context
+19940327,BRIONE,,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+19940327,CAGNO,,LOMBARDIA 2,,OLGIATE COMASCO,COMO,manual_from_electoral_district_context
+19940327,CAGNO',,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+19940327,CALLIANO,,PIEMONTE 2,,ASTI,ASTI,manual_from_electoral_district_context
+19940327,CALLIANO,,TRENTINO ALTO ADIGE,,ROVERETO,TRENTO,manual_from_electoral_district_context
+19940327,CASTRO,,LOMBARDIA 2,,COSTA VOLPINO,BERGAMO,manual_from_electoral_district_context
+19940327,CASTRO,,PUGLIA,,MAGLIE,LECCE,manual_from_electoral_district_context
+19940327,CORVARA,,ABRUZZI,,SULMONA,PESCARA,manual_from_electoral_district_context
+19940327,LIVO,,LOMBARDIA 2,,MORBEGNO,COMO,manual_from_electoral_district_context
+19940327,LIVO,,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+19940327,PATERNO,,BASILICATA,,LAURIA,POTENZA,manual_from_electoral_district_context
+19940327,PATERNO',,SICILIA 2,,PATERNO',CATANIA,manual_from_electoral_district_context
+19940327,PEGLIO,,LOMBARDIA 2,,MORBEGNO,COMO,manual_from_electoral_district_context
+19940327,PEGLIO,,MARCHE,,URBINO,PESARO E URBINO,manual_from_electoral_district_context
+19940327,SAMONE,,PIEMONTE 1,,IVREA,TORINO,manual_from_electoral_district_context
+19940327,SAMONE,,TRENTINO ALTO ADIGE,,PERGINE VALSUGANA,TRENTO,manual_from_electoral_district_context
+19940327,SAN TEODORO,,SARDEGNA,,NUORO,NUORO,manual_from_electoral_district_context
+19940327,SAN TEODORO,,SICILIA 2,,TAORMINA,MESSINA,manual_from_electoral_district_context
+19940327,VALVERDE,,LOMBARDIA 3,,VOGHERA,PAVIA,manual_from_electoral_district_context
+19940327,VALVERDE,,SICILIA 2,,GRAVINA DI CATANIA,CATANIA,manual_from_electoral_district_context
+19960421,BRIONE,,LOMBARDIA 2,,LUMEZZANE,BRESCIA,manual_from_electoral_district_context
+19960421,BRIONE,,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+19960421,CAGNO,,LOMBARDIA 2,,OLGIATE COMASCO,COMO,manual_from_electoral_district_context
+19960421,CAGNO',,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+19960421,CALLIANO,,PIEMONTE 2,,ASTI,ASTI,manual_from_electoral_district_context
+19960421,CALLIANO,,TRENTINO ALTO ADIGE,,ROVERETO,TRENTO,manual_from_electoral_district_context
+19960421,CASTRO,,LOMBARDIA 2,,COSTA VOLPINO,BERGAMO,manual_from_electoral_district_context
+19960421,CASTRO,,PUGLIA,,MAGLIE,LECCE,manual_from_electoral_district_context
+19960421,CORVARA,,ABRUZZI,,SULMONA,PESCARA,manual_from_electoral_district_context
+19960421,LIVO,,LOMBARDIA 2,,MORBEGNO,COMO,manual_from_electoral_district_context
+19960421,LIVO,,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+19960421,PATERNO,,BASILICATA,,LAURIA,POTENZA,manual_from_electoral_district_context
+19960421,PATERNO',,SICILIA 2,,PATERNO',CATANIA,manual_from_electoral_district_context
+19960421,PEGLIO,,LOMBARDIA 2,,MORBEGNO,COMO,manual_from_electoral_district_context
+19960421,PEGLIO,,MARCHE,,URBINO,PESARO E URBINO,manual_from_electoral_district_context
+19960421,SAMONE,,PIEMONTE 1,,IVREA,TORINO,manual_from_electoral_district_context
+19960421,SAMONE,,TRENTINO ALTO ADIGE,,PERGINE VALSUGANA,TRENTO,manual_from_electoral_district_context
+19960421,SAN TEODORO,,SARDEGNA,,NUORO,NUORO,manual_from_electoral_district_context
+19960421,SAN TEODORO,,SICILIA 2,,TAORMINA,MESSINA,manual_from_electoral_district_context
+19960421,VALVERDE,,LOMBARDIA 3,,VOGHERA,PAVIA,manual_from_electoral_district_context
+19960421,VALVERDE,,SICILIA 2,,GRAVINA DI CATANIA,CATANIA,manual_from_electoral_district_context
+20010513,BRIONE,,LOMBARDIA 2,,LUMEZZANE,BRESCIA,manual_from_electoral_district_context
+20010513,BRIONE,,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+20010513,CAGNO,,LOMBARDIA 2,,OLGIATE COMASCO,COMO,manual_from_electoral_district_context
+20010513,CAGNO',,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+20010513,CALLIANO,,PIEMONTE 2,,ASTI,ASTI,manual_from_electoral_district_context
+20010513,CALLIANO,,TRENTINO ALTO ADIGE,,ROVERETO,TRENTO,manual_from_electoral_district_context
+20010513,CASTRO,,LOMBARDIA 2,,COSTA VOLPINO,BERGAMO,manual_from_electoral_district_context
+20010513,CASTRO,,PUGLIA,,MAGLIE,LECCE,manual_from_electoral_district_context
+20010513,CORVARA,,ABRUZZO,,SULMONA,PESCARA,manual_from_electoral_district_context
+20010513,LIVO,,LOMBARDIA 2,,MORBEGNO,COMO,manual_from_electoral_district_context
+20010513,LIVO,,TRENTINO ALTO ADIGE,,LAVIS,TRENTO,manual_from_electoral_district_context
+20010513,PATERNO,,BASILICATA,,LAURIA,POTENZA,manual_from_electoral_district_context
+20010513,PATERNO',,SICILIA 2,,PATERNO',CATANIA,manual_from_electoral_district_context
+20010513,PEGLIO,,LOMBARDIA 2,,MORBEGNO,COMO,manual_from_electoral_district_context
+20010513,PEGLIO,,MARCHE,,URBINO,PESARO E URBINO,manual_from_electoral_district_context
+20010513,SAMONE,,PIEMONTE 1,,IVREA,TORINO,manual_from_electoral_district_context
+20010513,SAMONE,,TRENTINO ALTO ADIGE,,PERGINE VALSUGANA,TRENTO,manual_from_electoral_district_context
+20010513,SAN TEODORO,,SARDEGNA,,NUORO,NUORO,manual_from_electoral_district_context
+20010513,SAN TEODORO,,SICILIA 2,,TAORMINA,MESSINA,manual_from_electoral_district_context
+20010513,VALVERDE,,LOMBARDIA 3,,VOGHERA,PAVIA,manual_from_electoral_district_context
+20010513,VALVERDE,,SICILIA 2,,GRAVINA DI CATANIA,CATANIA,manual_from_electoral_district_context
+20180304,CAGNO,,LOMBARDIA 2,LOMBARDIA 2 - 02,05 - COMO,COMO,manual_from_electoral_district_context
+20180304,CAGNO',,TRENTINO-ALTO ADIGE/S_DTIROL,TRENTINO-ALTO ADIGE/S_DTIROL - 01,04 - TRENTO,TRENTO,manual_from_electoral_district_context
+20180304,CALLIANO,,PIEMONTE 2,PIEMONTE 2 - 01,06 - ASTI,ASTI,manual_from_electoral_district_context
+20180304,CALLIANO,,TRENTINO-ALTO ADIGE/S_DTIROL,TRENTINO-ALTO ADIGE/S_DTIROL - 01,05 - ROVERETO,TRENTO,manual_from_electoral_district_context
+20180304,CASTRO,,LOMBARDIA 3,LOMBARDIA 3 - 02,06 - ALBINO,BERGAMO,manual_from_electoral_district_context
+20180304,CASTRO,,PUGLIA,PUGLIA - 02,09 - CASARANO,LECCE,manual_from_electoral_district_context
+20180304,CORVARA,,ABRUZZO,ABRUZZO - 01,04 - CHIETI,PESCARA,manual_from_electoral_district_context
+20180304,LIVO,,LOMBARDIA 2,LOMBARDIA 2 - 02,01 - SONDRIO,COMO,manual_from_electoral_district_context
+20180304,LIVO,,TRENTINO-ALTO ADIGE/S_DTIROL,TRENTINO-ALTO ADIGE/S_DTIROL - 01,04 - TRENTO,TRENTO,manual_from_electoral_district_context
+20180304,PATERNO,,BASILICATA,BASILICATA - 01,01 - POTENZA,POTENZA,manual_from_electoral_district_context
+20180304,PATERNO',,SICILIA 2,SICILIA 2 - 03,07 - PATERN�,CATANIA,manual_from_electoral_district_context
+20180304,PEGLIO,,LOMBARDIA 2,LOMBARDIA 2 - 02,01 - SONDRIO,COMO,manual_from_electoral_district_context
+20180304,PEGLIO,,MARCHE,MARCHE - 02,06 - PESARO,PESARO E URBINO,manual_from_electoral_district_context
+20180304,SAMONE,,PIEMONTE 1,PIEMONTE 1 - 02,05 - IVREA,TORINO,manual_from_electoral_district_context
+20180304,SAMONE,,TRENTINO-ALTO ADIGE/S_DTIROL,TRENTINO-ALTO ADIGE/S_DTIROL - 01,06 - PERGINE VALSUGANA,TRENTO,manual_from_electoral_district_context
+20180304,SAN TEODORO,,SARDEGNA,SARDEGNA - 02,05 - OLBIA,SASSARI,manual_from_electoral_district_context
+20180304,SAN TEODORO,,SICILIA 2,SICILIA 2 - 01,03 - ENNA,MESSINA,manual_from_electoral_district_context
+20180304,VALVERDE,,LOMBARDIA 4,LOMBARDIA 4 - 01,02 - PAVIA,PAVIA,manual_from_electoral_district_context
+20180304,VALVERDE,,SICILIA 2,SICILIA 2 - 02,06 - MISTERBIANCO,CATANIA,manual_from_electoral_district_context
+20220925,CASTRO,,LOMBARDIA 3,LOMBARDIA 3 - P01,LOMBARDIA 3 - U02 (BERGAMO),BERGAMO,manual_from_electoral_district_context
+20220925,CASTRO,,PUGLIA,PUGLIA - P04,PUGLIA - U10 (GALATINA),LECCE,manual_from_electoral_district_context
+20220925,CORVARA,,ABRUZZO,ABRUZZO - P01,ABRUZZO - U02 (PESCARA),PESCARA,manual_from_electoral_district_context
+20220925,LIVO,,LOMBARDIA 2,LOMBARDIA 2 - P02,LOMBARDIA 2 - U04 (SONDRIO),COMO,manual_from_electoral_district_context
+20220925,LIVO,,TRENTINO-ALTO ADIGE/SUDTIROL,TRENTINO-ALTO ADIGE/SUDTIROL - P01,TRENTINO-ALTO ADIGE/SUDTIROL - U01 (TRENTO),TRENTO,manual_from_electoral_district_context
+20220925,PATERNO,,BASILICATA,BASILICATA - P01,BASILICATA - U01 (POTENZA),POTENZA,manual_from_electoral_district_context
+20220925,PATERNO',,SICILIA 2,SICILIA 2 - P02,SICILIA 2 - U03 (ACIREALE),CATANIA,manual_from_electoral_district_context
+20220925,PEGLIO,,LOMBARDIA 2,LOMBARDIA 2 - P02,LOMBARDIA 2 - U04 (SONDRIO),COMO,manual_from_electoral_district_context
+20220925,PEGLIO,,MARCHE,MARCHE - P01,MARCHE - U04 (PESARO),PESARO E URBINO,manual_from_electoral_district_context
+20220925,SAMONE,,PIEMONTE 1,PIEMONTE 1 - P02,PIEMONTE 1 - U04 (CHIERI),TORINO,manual_from_electoral_district_context
+20220925,SAMONE,,TRENTINO-ALTO ADIGE/SUDTIROL,TRENTINO-ALTO ADIGE/SUDTIROL - P01,TRENTINO-ALTO ADIGE/SUDTIROL - U02 (ROVERETO),TRENTO,manual_from_electoral_district_context
+20220925,SAN TEODORO,,SARDEGNA,SARDEGNA - P01,SARDEGNA - U04 (SASSARI),SASSARI,manual_from_electoral_district_context
+20220925,SAN TEODORO,,SICILIA 2,SICILIA 2 - P01,SICILIA 2 - U05 (BARCELLONA POZZO DI GOTTO),MESSINA,manual_from_electoral_district_context
+19480418,VALDAGNO,TRENTO,TRENTO-BOLZANO,,,BOLZANO,1948_trento_bolzano_valdagno_is_aldino_aldein_not_vicenza

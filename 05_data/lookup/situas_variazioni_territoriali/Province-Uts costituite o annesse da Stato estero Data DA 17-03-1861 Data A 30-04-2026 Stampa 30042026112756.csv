@@ -1,0 +1,109 @@
+﻿Anno evento;Tipologia Provincia/Uts;Descrizione Tipologia;Codice Provincia/Uts;Provincia/Uts;Sigla Provincia/Uts;Tipo variazione;Data evento;Codice Provincia/Uts associata;Provincia/Uts associata;Sigla Provincia/Uts associata;Tipologia Provincia/Uts associata;Descrizione Tipologia associata
+2026;1;Provincia;113;Gallura Nord-Est Sardegna;OT;CS;01/01/2026;090;Sassari;SS;1;Provincia
+2026;1;Provincia;116;Ogliastra;OG;CS;01/01/2026;091;Nuoro;NU;1;Provincia
+2026;1;Provincia;116;Ogliastra;OG;CS;01/01/2026;111;Sud Sardegna;SU;1;Provincia
+2026;1;Provincia;117;Medio Campidano;VS;CS;01/01/2026;111;Sud Sardegna;SU;1;Provincia
+2026;1;Provincia;119;Sulcis Iglesiente;CI;CS;01/01/2026;111;Sud Sardegna;SU;1;Provincia
+2026;3;Città metropolitana;312;Sassari;SS;CSCT;01/01/2026;090;Sassari;SS;1;Provincia
+2018;5;Unità non amministrativa;030;Udine;UD;CSCT;22/04/2018;030;Udine;UD;1;Provincia
+2017;5;Unità non amministrativa;031;Gorizia;GO;CSCT;30/09/2017;031;Gorizia;GO;1;Provincia
+2017;5;Unità non amministrativa;032;Trieste;TS;CSCT;30/09/2017;032;Trieste;TS;1;Provincia
+2017;5;Unità non amministrativa;093;Pordenone;PN;CSCT;30/09/2017;093;Pordenone;PN;1;Provincia
+2016;3;Città metropolitana;280;Reggio Calabria;RC;CSCT;29/12/2016;080;Reggio di Calabria;RC;1;Provincia
+2016;4;Libero consorzio di comuni;081;Trapani;TP;CSCT;06/06/2016;081;Trapani;TP;1;Provincia
+2016;4;Libero consorzio di comuni;084;Agrigento;AG;CSCT;06/06/2016;084;Agrigento;AG;1;Provincia
+2016;4;Libero consorzio di comuni;085;Caltanissetta;CL;CSCT;06/06/2016;085;Caltanissetta;CL;1;Provincia
+2016;4;Libero consorzio di comuni;086;Enna;EN;CSCT;06/06/2016;086;Enna;EN;1;Provincia
+2016;4;Libero consorzio di comuni;088;Ragusa;RG;CSCT;06/06/2016;088;Ragusa;RG;1;Provincia
+2016;4;Libero consorzio di comuni;089;Siracusa;SR;CSCT;06/06/2016;089;Siracusa;SR;1;Provincia
+2016;3;Città metropolitana;282;Palermo;PA;CSCT;06/06/2016;082;Palermo;PA;1;Provincia
+2016;3;Città metropolitana;283;Messina;ME;CSCT;06/06/2016;083;Messina;ME;1;Provincia
+2016;3;Città metropolitana;287;Catania;CT;CSCT;06/06/2016;087;Catania;CT;1;Provincia
+2016;1;Provincia;111;Sud Sardegna;SU;CS;28/04/2016;092;Cagliari;CA;1;Provincia
+2016;1;Provincia;111;Sud Sardegna;SU;CS;28/04/2016;095;Oristano;OR;1;Provincia
+2016;1;Provincia;111;Sud Sardegna;SU;CS;28/04/2016;105;Ogliastra;OG;1;Provincia
+2016;1;Provincia;111;Sud Sardegna;SU;CS;28/04/2016;106;Medio Campidano;VS;1;Provincia
+2016;1;Provincia;111;Sud Sardegna;SU;CS;28/04/2016;107;Carbonia-Iglesias;CI;1;Provincia
+2016;3;Città metropolitana;292;Cagliari;CA;CSCT;28/04/2016;092;Cagliari;CA;1;Provincia
+2015;3;Città metropolitana;201;Torino;TO;CSCT;01/01/2015;001;Torino;TO;1;Provincia
+2015;3;Città metropolitana;210;Genova;GE;CSCT;01/01/2015;010;Genova;GE;1;Provincia
+2015;3;Città metropolitana;215;Milano;MI;CSCT;01/01/2015;015;Milano;MI;1;Provincia
+2015;3;Città metropolitana;227;Venezia;VE;CSCT;01/01/2015;027;Venezia;VE;1;Provincia
+2015;3;Città metropolitana;237;Bologna;BO;CSCT;01/01/2015;037;Bologna;BO;1;Provincia
+2015;3;Città metropolitana;248;Firenze;FI;CSCT;01/01/2015;048;Firenze;FI;1;Provincia
+2015;3;Città metropolitana;258;Roma;RM;CSCT;01/01/2015;058;Roma;RM;1;Provincia
+2015;3;Città metropolitana;263;Napoli;NA;CSCT;01/01/2015;063;Napoli;NA;1;Provincia
+2015;3;Città metropolitana;272;Bari;BA;CSCT;01/01/2015;072;Bari;BA;1;Provincia
+2009;1;Provincia;110;Barletta-Andria-Trani;BT;CS;27/07/2009;071;Foggia;FG;1;Provincia
+2009;1;Provincia;110;Barletta-Andria-Trani;BT;CS;27/07/2009;072;Bari;BA;1;Provincia
+2009;1;Provincia;109;Fermo;FM;CS;12/07/2009;044;Ascoli Piceno;AP;1;Provincia
+2009;1;Provincia;108;Monza e della Brianza;MB;CS;30/06/2009;015;Milano;MI;1;Provincia
+2006;1;Provincia;104;Olbia-Tempio;OT;CS;01/01/2006;090;Sassari;SS;1;Provincia
+2006;1;Provincia;104;Olbia-Tempio;OT;CS;01/01/2006;091;Nuoro;NU;1;Provincia
+2006;1;Provincia;105;Ogliastra;OG;CS;01/01/2006;091;Nuoro;NU;1;Provincia
+2006;1;Provincia;106;Medio Campidano;VS;CS;01/01/2006;092;Cagliari;CA;1;Provincia
+2006;1;Provincia;107;Carbonia-Iglesias;CI;CS;01/01/2006;092;Cagliari;CA;1;Provincia
+1995;1;Provincia;096;Biella;BI;CS;01/01/1995;002;Vercelli;VC;1;Provincia
+1995;1;Provincia;097;Lecco;LC;CS;01/01/1995;013;Como;CO;1;Provincia
+1995;1;Provincia;097;Lecco;LC;CS;01/01/1995;016;Bergamo;BG;1;Provincia
+1995;1;Provincia;098;Lodi;LO;CS;01/01/1995;015;Milano;MI;1;Provincia
+1995;1;Provincia;099;Rimini;RN;CS;01/01/1995;040;Forli;FC;1;Provincia
+1995;1;Provincia;100;Prato;PO;CS;01/01/1995;048;Firenze;FI;1;Provincia
+1995;1;Provincia;101;Crotone;KR;CS;01/01/1995;079;Catanzaro;CZ;1;Provincia
+1995;1;Provincia;102;Vibo Valentia;VV;CS;01/01/1995;079;Catanzaro;CZ;1;Provincia
+1995;1;Provincia;103;Verbano-Cusio-Ossola;VB;CS;01/01/1995;003;Novara;NO;1;Provincia
+1974;1;Provincia;095;Oristano;OR;CS;20/08/1974;091;Nuoro;NU;1;Provincia
+1974;1;Provincia;095;Oristano;OR;CS;20/08/1974;092;Cagliari;CA;1;Provincia
+1970;1;Provincia;094;Isernia;IS;CS;03/03/1970;070;Campobasso;CB;1;Provincia
+1968;1;Provincia;093;Pordenone;PN;CS;06/04/1968;030;Udine;UD;1;Provincia
+1945;1;Provincia;061;Caserta;CE;CS;01/09/1945;062;Benevento;BN;1;Provincia
+1945;1;Provincia;061;Caserta;CE;CS;01/09/1945;063;Napoli;NA;1;Provincia
+1945;1;Provincia;061;Caserta;CE;CS;01/09/1945;070;Campobasso;CB;1;Provincia
+1935;1;Provincia;005;Asti;AT;CS;15/04/1935;006;Alessandria;AL;1;Provincia
+1934;1;Provincia;059;Littoria;LT;CS;26/10/1934;058;Roma;RM;1;Provincia
+1934;1;Provincia;059;Littoria;LT;CS;26/10/1934;063;Napoli;NA;1;Provincia
+1927;1;Provincia;002;Vercelli;VC;CS;12/01/1927;003;Novara;NO;1;Provincia
+1927;1;Provincia;007;Aosta;AO;CS;12/01/1927;001;Torino;TO;1;Provincia
+1927;1;Provincia;009;Savona;SV;CS;12/01/1927;010;Genova;GE;1;Provincia
+1927;1;Provincia;012;Varese;VA;CS;12/01/1927;013;Como;CO;1;Provincia
+1927;1;Provincia;012;Varese;VA;CS;12/01/1927;015;Milano;MI;1;Provincia
+1927;1;Provincia;021;Bolzano/Bozen;BZ;CS;12/01/1927;022;Trento;TN;1;Provincia
+1927;1;Provincia;031;Gorizia;GO;CS;12/01/1927;030;Friuli;UD;1;Provincia
+1927;1;Provincia;047;Pistoia;PT;CS;12/01/1927;048;Firenze;FI;1;Provincia
+1927;1;Provincia;055;Terni;TR;CS;12/01/1927;054;Perugia;PG;1;Provincia
+1927;1;Provincia;056;Viterbo;VT;CS;12/01/1927;058;Roma;RM;1;Provincia
+1927;1;Provincia;057;Rieti;RI;CS;12/01/1927;058;Roma;RM;1;Provincia
+1927;1;Provincia;057;Rieti;RI;CS;12/01/1927;066;Aquila degli Abruzzi;AQ;1;Provincia
+1927;1;Provincia;060;Frosinone;FR;CS;12/01/1927;058;Roma;RM;1;Provincia
+1927;1;Provincia;060;Frosinone;FR;CS;12/01/1927;061;Caserta;CE;1;Provincia
+1927;1;Provincia;068;Pescara;PE;CS;12/01/1927;066;Aquila degli Abruzzi;AQ;1;Provincia
+1927;1;Provincia;068;Pescara;PE;CS;12/01/1927;067;Teramo;TE;1;Provincia
+1927;1;Provincia;068;Pescara;PE;CS;12/01/1927;069;Chieti;CH;1;Provincia
+1927;1;Provincia;074;Brindisi;BR;CS;12/01/1927;072;Bari delle Puglie;BA;1;Provincia
+1927;1;Provincia;074;Brindisi;BR;CS;12/01/1927;075;Lecce;LE;1;Provincia
+1927;1;Provincia;077;Matera;MT;CS;12/01/1927;076;Potenza;PZ;1;Provincia
+1927;1;Provincia;086;Castrogiovanni;EN;CS;12/01/1927;085;Caltanissetta;CL;1;Provincia
+1927;1;Provincia;086;Castrogiovanni;EN;CS;12/01/1927;087;Catania;CT;1;Provincia
+1927;1;Provincia;088;Ragusa;RG;CS;12/01/1927;089;Siracusa;SR;1;Provincia
+1927;1;Provincia;091;Nuoro;NU;CS;12/01/1927;090;Sassari;SS;1;Provincia
+1927;1;Provincia;091;Nuoro;NU;CS;12/01/1927;092;Cagliari;CA;1;Provincia
+1924;1;Provincia;701;Fiume;FU;CS;23/02/1924;702;Istria (Pola);PL;1;Provincia
+1923;1;Provincia;011;Spezia;SP;CS;22/12/1923;010;Genova;GE;1;Provincia
+1923;1;Provincia;011;Spezia;SP;CS;22/12/1923;045;Massa e Carrara;MS;1;Provincia
+1923;1;Provincia;073;Jonio;TA;CS;22/12/1923;075;Lecce;LE;1;Provincia
+1923;1;Provincia;022;Trento;TN;CS;14/02/1923;802;Venezia Tridentina;TN;1;Provincia
+1923;1;Provincia;032;Trieste;TS;CS;08/02/1923;801;Venezia Giulia;Venezia Giulia;1;Provincia
+1923;1;Provincia;702;Istria (Pola);PL;CS;08/02/1923;801;Venezia Giulia;Venezia Giulia;1;Provincia
+1923;1;Provincia;703;Zara;ZA;CS;08/02/1923;801;Venezia Giulia;Venezia Giulia;1;Provincia
+1921;1;Provincia;801;Venezia Giulia;Venezia Giulia;AN;05/01/1921;;Stato estero;;;
+1920;1;Provincia;802;Venezia Tridentina;TN;AN;16/10/1920;;Stato estero;;;
+1871;1;Provincia;058;Roma;RM;AN;15/01/1871;;Stato estero;;;
+1866;1;Provincia;020;Mantova;MN;AN;20/11/1866;;Stato estero;;;
+1866;1;Provincia;023;Verona;VR;AN;20/11/1866;;Stato estero;;;
+1866;1;Provincia;024;Vicenza;VI;AN;20/11/1866;;Stato estero;;;
+1866;1;Provincia;025;Belluno;BL;AN;20/11/1866;;Stato estero;;;
+1866;1;Provincia;026;Treviso;TV;AN;20/11/1866;;Stato estero;;;
+1866;1;Provincia;027;Venezia;VE;AN;20/11/1866;;Stato estero;;;
+1866;1;Provincia;028;Padova;PD;AN;20/11/1866;;Stato estero;;;
+1866;1;Provincia;029;Rovigo;RO;AN;20/11/1866;;Stato estero;;;
+1866;1;Provincia;030;Udine;UD;AN;20/11/1866;;Stato estero;;;

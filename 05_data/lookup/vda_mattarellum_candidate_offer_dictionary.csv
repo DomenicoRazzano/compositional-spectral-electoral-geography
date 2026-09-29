@@ -1,0 +1,16 @@
+election_date,candidate_name,candidate_symbols,list_equivalent,recoding_reason
+19940327,BORLUZZI GIANCARLO,ALLEANZA NAZIONALE,ALLEANZA NAZIONALE,exact_national_party_symbol
+19940327,CAVERI LUCIANO EMILIO,L.VALLE D'AOSTA,LISTE VALDOSTANE,regional_autonomist_candidate_offer
+19940327,LINTY PAOLO,LEGA NORD,LEGA NORD,exact_national_party_symbol
+19940327,SQUARZINO SECONDINA,PROGRESSISTI,PROGRESSISTI,observed_uninominal_coalition_offer_no_single_proportional_equivalent
+19960421,CAVERI LUCIANO EMILIO,POUR VALLEE D'AOSTE,LISTE VALDOSTANE,regional_autonomist_candidate_offer
+19960421,DURANDO MARIA,RINNOVAMENTO,RINNOVAMENTO,exact_observed_political_label
+19960421,LINTY PAOLO,LEGA NORD,LEGA NORD,exact_national_party_symbol
+19960421,MOROSSO SILVINO,RIFONDAZIONE COMUNISTA,RIFONDAZIONE COMUNISTA,exact_national_party_symbol
+19960421,SQUARZINO SECONDINA,VALLE D'AOSTA-ULIVO,VALLE D'AOSTA-ULIVO,observed_regional_ulivo_candidate_offer_no_single_proportional_equivalent
+19960421,TIBALDI ENRICO FULVIO,POLO PER LE LIBERTA',POLO PER LE LIBERTA',observed_uninominal_coalition_offer_no_single_proportional_equivalent
+20010513,ANGELI GIANLORETO,FI-LG NORD (AOSTA),CASA DELLE LIBERTA',center_right_uninominal_coalition_equivalent
+20010513,COLLE' IVO,VALLEE D'AOSTE,LISTE VALDOSTANE,regional_autonomist_candidate_offer
+20010513,FIOU GIULIO,DEMOCRATICI SINISTRA,DEMOCRATICI SINISTRA,exact_observed_party_label
+20010513,RICCARAND ELIO,LISTA ALTERNATIVA,LISTA ALTERNATIVA,regional_left_alternative_candidate_offer
+20010513,ZUCCHI ALBERTO,AN (AOSTA),ALLEANZA NAZIONALE,national_party_abbreviation_expanded

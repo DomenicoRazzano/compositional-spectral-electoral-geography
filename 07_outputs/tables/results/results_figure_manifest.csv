@@ -1,0 +1,27 @@
+results_section,file_stem,purpose
+6.1,fig_results_01_support_dimensionality,Raw list support versus final compositional dimensionality
+6.1,fig_results_02_residual_support_shares,OTHER_LISTS and TERRITORIAL_LISTS vote shares
+6.1,fig_results_03a_zero_cells,Number of zero province-component cells
+6.1,fig_results_03b_max_component_zero_share,Maximum component-specific zero prevalence
+6.2,fig_results_04a_mass_clr_variance_correlation,Association between component mass and clr variability over time
+6.2,fig_results_04b_mass_clr_variance_selected,Selected-election mass-versus-clr-variance scatterplots
+6.2,fig_results_05_power_parameter_alignment,Calibration of positive-power parameters against log-ratio benchmarks
+6.2,fig_results_06_geometry_agreement_heatmap,Median pairwise-distance agreement among geometries
+6.3,fig_results_07_zero_replacement_robustness,Sensitivity of regularized log-ratio distances to zero replacement
+6.3,fig_results_08a_subcomposition_preferred,Subcomposition sensitivity under preferred geometry
+6.4,fig_results_09_affinity_diagnostics,Preferred-graph diagnostics over time
+6.4,fig_results_10_lambda2_over_time,Algebraic connectivity over time
+6.4,fig_results_11_low_frequency_spectrum,Low-frequency normalized-Laplacian spectrum
+6.5,fig_results_12a_spectral_silhouette_heatmap,Spectral silhouette across election and C
+6.5,fig_results_12b_electoral_silhouette_heatmap,Electoral-distance silhouette across election and C
+6.5,fig_results_12c_normalized_cut_heatmap,Normalized cut across election and C
+6.5,fig_results_12d_eigengap_heatmap,Eigengap across election and C
+6.5,fig_results_13a_selected_cluster_maps_C4,Selected preferred-geometry territorial partitions
+6.6,fig_results_14_axis_component_correlations_<year>,Electoral interpretation of spectral axes 2-4
+6.6,fig_results_15_cluster_electoral_profiles_<year>_C4,Cluster mean electoral profiles
+6.6,fig_results_16_cluster_region_profiles_<year>_C4,Regional allocation across spectral clusters
+6.7,fig_results_17_geometry_partition_stability,Partition ARI relative to preferred geometry
+6.7,fig_results_18_cross_geometry_maps_<year>_C4,Selected cross-geometry partition maps
+6.8,fig_results_19_temporal_partition_stability,Adjacent-election ARI across C
+6.8,fig_results_20_transition_matrices_C4,Lowest-stability transition matrices
+6.8,fig_results_21_province_instability_C4,Mean province-level coassignment instability

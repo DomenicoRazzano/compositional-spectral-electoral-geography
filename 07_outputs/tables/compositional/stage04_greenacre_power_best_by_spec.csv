@@ -1,0 +1,3 @@
+family,benchmark,lambda,n_elections,spearman_median,pearson_median
+greenacre_unweighted_power,aitchison,0.15,19,0.9767174508542945,0.9405607736259551
+greenacre_weighted_power,greenacre_weighted_lra,0.17500000000000002,19,0.9851931640976942,0.9828072982496111
