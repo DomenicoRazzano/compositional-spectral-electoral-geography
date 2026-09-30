@@ -1,0 +1,37 @@
+# R / RStudio local state
+.RData
+.Rhistory
+.Ruserdata
+.RDataTmp*
+.Rproj.user/
+.r_user_exam/
+.positai
+**/.RData
+**/.Rhistory
+**/.Rproj.user/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# renv local installations
+renv/library/
+renv/staging/
+renv/python/
+renv/local/
+
+# Large generated processed datasets
+05_data/processed/**
+!05_data/processed/README.md
+
+# Large public CSV distributed through GitHub Releases
+05_data/public/camera_all_harmonized_public.csv
+
+# Complete cluster atlas
+07_outputs/figures/results/maps/clusters_all/**
+!07_outputs/figures/results/maps/clusters_all/README.md
+
+# Local release/archive files
+release_assets/
+*.tmp
+*.log

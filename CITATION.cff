@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these replication materials, please cite them using the metadata below."
+title: "A Compositional Spectral Framework for Electoral Geography: Replication Materials"
+type: software
+authors:
+  - family-names: "Razzano"
+    given-names: "Domenico"
+version: "1.0.1"
+date-released: "2026-09-30"
+repository-code: "https://github.com/DomenicoRazzano/compositional-spectral-electoral-geography"
