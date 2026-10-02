@@ -50,7 +50,7 @@ Third-party data retain the attribution and reuse terms of their original provid
 
 The versioned replication release associated with this thesis is archived on Zenodo:
 
-**DOI:** https://doi.org/10.5281/zenodo.23070625
+**DOI:** [https://doi.org/10.5281/zenodo.23070625](https://doi.org/10.5281/zenodo.23111695)
 
 Citation metadata are also provided in `CITATION.cff`.
 
