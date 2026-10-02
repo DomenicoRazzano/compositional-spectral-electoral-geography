@@ -1,5 +1,4 @@
 # 99_results_figures_maps.R
-# =============================================================================
 # Chapter 6 Results: every figure that requires the ISTAT shapefiles.
 #
 # Main output:
@@ -7,16 +6,13 @@
 #     available in stage05_fixedC_cluster_assignments.csv;
 #   - mean province-level instability maps for every C.
 #
-# Display-label alignment:
+# Display-label alignment for visualization:
 #   1. For each C, preferred-geometry cluster colours are aligned sequentially
 #      through time by maximum overlap with the previous election.
 #   2. Within each election and C, every alternative geometry is aligned by
 #      maximum overlap with that election's already time-aligned preferred
 #      partition.
-#
-# This relabeling is for visualization only. It does not change any partition,
-# ARI, NMI, VI, coassignment metric, graph, or spectral result.
-# =============================================================================
+
 
 source(here::here("06_code", "00_setup.R"))
 

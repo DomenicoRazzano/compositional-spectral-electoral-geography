@@ -2,8 +2,8 @@
 local({
 
   # the requested version of renv
-  version <- "1.1.8"
-  attr(version, "md5") <- "cbffd086c66739a0fdaac7a30b4aa65c"
+  version <- "1.3.0"
+  attr(version, "md5") <- "0e455edd4e599601db0c06cc88a791b8"
   attr(version, "sha") <- NULL
 
   # the project directory
@@ -79,7 +79,7 @@ local({
 
   # avoid recursion
   if (identical(getOption("renv.autoloader.running"), TRUE)) {
-    warning("ignoring recurse attempt to run renv autoloader")
+    warning("ignoring recursive attempt to run renv autoloader")
     return(invisible(TRUE))
   }
 
@@ -226,13 +226,17 @@ local({
     section <- header(sprintf("Bootstrapping renv %s", friendly))
     catf(section)
   
+    # ensure the target library path exists; required for file.copy(..., recursive = TRUE)
+    dir.create(library, showWarnings = FALSE, recursive = TRUE)
+  
     # try to install renv from cache
     md5 <- attr(version, "md5", exact = TRUE)
     if (length(md5)) {
       pkgpath <- renv_bootstrap_find(version)
       if (length(pkgpath) && file.exists(pkgpath)) {
-        file.copy(pkgpath, library, recurse = TRUE)
-        return(invisible())
+        ok <- file.copy(pkgpath, library, recursive = TRUE)
+        if (isTRUE(ok))
+          return(invisible())
       }
     }
   
@@ -416,7 +420,7 @@ local({
       return(character())
   
     if (is.list(headers))
-      headers <- unlist(headers, recurse = FALSE, use.names = TRUE)
+      headers <- unlist(headers, recursive = FALSE, use.names = TRUE)
   
     ok <-
       is.character(headers) &&
@@ -677,7 +681,7 @@ local({
   
     # Untar
     tempdir <- tempfile("renv-github-")
-    on.exit(unlink(tempdir, recurse = TRUE), add = TRUE)
+    on.exit(unlink(tempdir, recursive = TRUE), add = TRUE)
     untar(destfile, exdir = tempdir)
     pkgdir <- dir(tempdir, full.names = TRUE)[[1]]
   
@@ -712,6 +716,18 @@ local({
   # (512 byte) header.
   renv_bootstrap_git_extract_sha1_tar <- function(bundle) {
   
+    tryCatch(
+      renv_bootstrap_git_extract_sha1_tar_impl(bundle),
+      error = function(cnd) {
+        catf("- Failed to extract the Git SHA from '%s': %s", bundle, conditionMessage(cnd))
+        NULL
+      }
+    )
+  
+  }
+  
+  renv_bootstrap_git_extract_sha1_tar_impl <- function(bundle) {
+  
     # open the bundle for reading
     # We use gzcon for everything because (from ?gzcon)
     # > Reading from a connection which does not supply a 'gzip' magic
@@ -730,6 +746,7 @@ local({
     } else {
       NULL
     }
+  
   }
   
   renv_bootstrap_install <- function(version, tarball, library) {
@@ -1231,6 +1248,21 @@ local({
   }
   
   renv_bootstrap_run <- function(project, libpath, version) {
+    tryCatch(
+      renv_bootstrap_run_impl(project, libpath, version),
+      error = function(e) {
+        msg <- paste(
+          "failed to bootstrap renv: the project will not be loaded.",
+          paste("Reason:", conditionMessage(e)),
+          "Use `renv::activate()` to re-initialize the project.",
+          sep = "\n"
+        )
+        warning(msg, call. = FALSE)
+      }
+    )
+  }
+  
+  renv_bootstrap_run_impl <- function(project, libpath, version) {
   
     # perform bootstrap
     bootstrap(version, libpath)
@@ -1363,7 +1395,7 @@ local({
     }
   
     # recurse for other objects
-    if (is.recurse(object))
+    if (is.recursive(object))
       for (i in seq_along(object))
         object[i] <- list(renv_json_read_remap(object[[i]], patterns))
   

@@ -1,21 +1,12 @@
 # 98_results_figures_nonmap.R
-# =============================================================================
 # Chapter 6 Results: all figures that do NOT require shapefiles.
-#
-# The first two figures intentionally reproduce the already-used thesis figures
-# exactly (same ggplot code and theme; only the output path/name is moved to
-# Results).
-#
-# This script does not re-estimate Stage 04 or Stage 05 objects. It reads the
-# canonical CSV outputs only.
-# =============================================================================
+
 
 source(here::here("06_code", "00_setup.R"))
 
 preferred_geometry <- "greenacre_weighted_power_0175"
 illustrative_C <- 4L
 
-# Edit only if you want a different set of detailed interpretation panels.
 interpretation_years <- c(1948L, 1953L, 1958L, 1963L, 1968L, 1972L, 1976L, 1979L, 1983L, 1987L, 1992L, 1994L, 1996L, 2001L, 2006L, 2008L, 2013L, 2018L, 2022L)
 mass_scatter_years <- c(1948L, 1976L, 1994L, 2022L)
 n_transition_panels <- 5L
@@ -76,8 +67,7 @@ theme_thesis_results <- function(base_size = 9.5) {
 }
 
 
-# Legacy theme used by the two figures that were already in the thesis.
-# Kept unchanged so their appearance stays identical.
+# Legacy theme used by the two figures that were already in the thesis
 theme_thesis <- function(base_size = 9.5) {
   ggplot2::theme_bw(base_size = base_size) +
     ggplot2::theme(
@@ -129,12 +119,12 @@ write_result_table <- function(x, filename) {
   invisible(x)
 }
 
-write_latex_longtable <- function(
-    x,
-    filename,
-    caption,
-    label,
-    digits = 4
+write_latex_longtable <- function( #Prende un dataframe, arrotonda le colonne numeriche e lo converte direttamente in LaTeX longtable
+  x,
+  filename,
+  caption,
+  label,
+  digits = 4
 ) {
   if (!requireNamespace("knitr", quietly = TRUE)) {
     stop(
@@ -195,9 +185,8 @@ subcomposition_labels <- c(
   autonomous_parties_only = "Autonomous parties only"
 )
 
-# -----------------------------------------------------------------------------
-# Load canonical outputs
-# -----------------------------------------------------------------------------
+
+# Load outputs
 
 support_summary <- read_required_csv(
   file.path(stage04_table_dir, "stage04_support_summary.csv")
@@ -289,14 +278,14 @@ province_instability <- read_required_csv(
   file.path(stage05_table_dir, "stage05_province_instability_main_spec.csv")
 )
 
+#integrity check sugli anni
 election_years <- sort(unique(support_summary$year))
 stopifnot(length(election_years) == 19L)
 stopifnot(all(interpretation_years %in% election_years))
 stopifnot(all(mass_scatter_years %in% election_years))
 
-# -----------------------------------------------------------------------------
+
 # Compact tables used in Results
-# -----------------------------------------------------------------------------
 
 selected_power_table <- dplyr::bind_rows(
   alpha_best_spec |>
@@ -328,6 +317,7 @@ selected_power_table <- dplyr::bind_rows(
 )
 write_result_table(selected_power_table, "table_results_selected_power_specifications.csv")
 
+# election specific table for preferred geometry
 preferred_affinity_table <- affinity_diagnostics |>
   dplyr::filter(.data$is_preferred_geometry) |>
   dplyr::select(
@@ -341,6 +331,7 @@ write_result_table(
   "table_results_affinity_diagnostics_preferred.csv"
 )
 
+# which provinces lie at the poles of the spectral coordinates?
 axis_extremes_selected_table <- axis_extremes |>
   dplyr::filter(
     .data$year %in% interpretation_years,
@@ -372,13 +363,11 @@ write_result_table(
   paste0("table_results_most_unstable_provinces_C", illustrative_C, ".csv")
 )
 
-# =============================================================================
+
 # RESULTS FIGURES
-# =============================================================================
+
 
 # FIGURE 1 — ELECTORAL SUPPORT DIMENSIONALITY
-# =============================================================================
-
 message("Preparing Figure 1: support dimensionality.")
 
 support_dimension_long <- support_summary |>
@@ -430,9 +419,8 @@ save_thesis_plot(
   6.7, 3.7
 )
 
-# =============================================================================
+
 # FIGURE 2 — RESIDUAL SUPPORT SHARES
-# =============================================================================
 
 message("Preparing Figure 2: residual support shares.")
 
@@ -485,10 +473,10 @@ save_thesis_plot(
   6.7, 3.9
 )
 
-# =============================================================================
 
-# 10. FIGURES 6.3a-b — ZERO STRUCTURE
-# -----------------------------------------------------------------------------
+
+# FIGURES 3a-b — ZERO STRUCTURE
+
 
 message("Figures: zero structure.")
 
@@ -616,7 +604,6 @@ save_thesis_plot(
 )
 
 # 11. FIGURES 6.4a-b — COMPONENT MASS AND CLR VARIABILITY
-# -----------------------------------------------------------------------------
 
 message("Figures: component mass and clr variability.")
 
@@ -792,8 +779,7 @@ save_thesis_plot(
   results_appendix_dir
 )
 
-# 12. FIGURE 6.5 — POWER-PARAMETER CALIBRATION
-# -----------------------------------------------------------------------------
+# FIGURE 6.5 — POWER-PARAMETER CALIBRATION
 
 message("Figure: power-parameter calibration.")
 
@@ -968,8 +954,7 @@ save_thesis_plot(
   results_core_dir
 )
 
-# 13. FIGURE 6.6 — PAIRWISE GEOMETRY AGREEMENT
-# -----------------------------------------------------------------------------
+# FIGURE 6.6 — PAIRWISE GEOMETRY AGREEMENT
 
 message("Figure: pairwise geometry agreement.")
 
@@ -1086,8 +1071,7 @@ save_thesis_plot(
   results_core_dir
 )
 
-# 14. FIGURE 6.7 — ZERO-REPLACEMENT ROBUSTNESS
-# -----------------------------------------------------------------------------
+# FIGURE 6.7 — ZERO-REPLACEMENT ROBUSTNESS
 
 message("Figure: zero-replacement robustness.")
 
@@ -1278,8 +1262,7 @@ write_result_table(
   "table_results_zero_pattern_diagnostics.csv"
 )
 
-# 15. FIGURES 6.8a-b — SUBCOMPOSITION SENSITIVITY
-# -----------------------------------------------------------------------------
+#FIGURES 6.8a-b — SUBCOMPOSITION SENSITIVITY
 
 message("Figures: subcomposition sensitivity.")
 
@@ -1425,8 +1408,7 @@ save_thesis_plot(
   results_appendix_dir
 )
 
-# 16. FIGURE 6.9 — PREFERRED-GRAPH DIAGNOSTICS
-# -----------------------------------------------------------------------------
+# FIGURE 6.9 — PREFERRED-GRAPH DIAGNOSTICS
 
 message("Figure: graph diagnostics.")
 
@@ -1510,8 +1492,7 @@ save_thesis_plot(
   results_graph_dir
 )
 
-# 17. FIGURE 6.10 — ALGEBRAIC CONNECTIVITY (LAMBDA_2)
-# -----------------------------------------------------------------------------
+# FIGURE 6.10 — ALGEBRAIC CONNECTIVITY (LAMBDA_2)
 
 message("Figure: lambda_2 through time.")
 
@@ -1559,8 +1540,7 @@ save_thesis_plot(
   results_graph_dir
 )
 
-# 18. FIGURE 6.11 — LOW-FREQUENCY SPECTRUM
-# -----------------------------------------------------------------------------
+# FIGURE 6.11 — LOW-FREQUENCY SPECTRUM
 
 message("Figure: low-frequency spectrum.")
 
@@ -1622,8 +1602,7 @@ save_thesis_plot(
   results_graph_dir
 )
 
-# 19. FIGURES 6.12a-e — PARTITION DIAGNOSTICS ACROSS C
-# -----------------------------------------------------------------------------
+#FIGURES 6.12a-e — PARTITION DIAGNOSTICS ACROSS C
 
 message("Figures: partition diagnostics across C.")
 
@@ -1722,9 +1701,8 @@ save_quality_heatmap(
 )
 
 
-# -----------------------------------------------------------------------------
+
 # MAIN-TEXT MULTIRESOLUTION SUMMARY
-# -----------------------------------------------------------------------------
 
 quality_summary_long <- cluster_quality |>
   dplyr::group_by(.data$n_clusters) |>
@@ -1849,14 +1827,10 @@ write_result_table(
   "table_results_multiresolution_summary.csv"
 )
 
-# -----------------------------------------------------------------------------
-
-# 21. FIGURES 6.14 — SPECTRAL-AXIS ELECTORAL INTERPRETATION
-# -----------------------------------------------------------------------------
-
+#FIGURES 6.14 — SPECTRAL-AXIS ELECTORAL INTERPRETATION
 message("Figures: spectral-axis component correlations.")
 
-for (yr in interpretation_years) {
+for (yr in interpretation_years) { # per ogni anno e asse, calcolo  spearman correlation tra coordinata provinciale sull'asse e quota ciascun componente elettorale
   
   axis_y <- axis_correlations |>
     dplyr::filter(.data$year == .env$yr) |>
@@ -1937,9 +1911,8 @@ for (yr in interpretation_years) {
   )
 }
 
-# -----------------------------------------------------------------------------
-# 22. FIGURES 6.15 — CLUSTER ELECTORAL PROFILES
-# -----------------------------------------------------------------------------
+
+#FIGURES 6.15 — CLUSTER ELECTORAL PROFILES
 
 message("Figures: cluster electoral profiles.")
 
@@ -2040,9 +2013,8 @@ for (yr in interpretation_years) {
   )
 }
 
-# -----------------------------------------------------------------------------
-# 23. FIGURES 6.16 — REGIONAL COMPOSITION OF CLUSTERS
-# -----------------------------------------------------------------------------
+
+# FIGURES 6.16 — REGIONAL COMPOSITION OF CLUSTERS
 
 message("Figures: regional composition of clusters.")
 
@@ -2136,11 +2108,8 @@ for (yr in interpretation_years) {
   )
 }
 
-# -----------------------------------------------------------------------------
 
-# -----------------------------------------------------------------------------
 # REGIONAL PURITY THROUGH TIME AT C = 4
-# -----------------------------------------------------------------------------
 
 regional_purity_by_region <- cluster_region_profiles |>
   dplyr::filter(.data$n_clusters == illustrative_C) |>
@@ -2231,8 +2200,7 @@ write_result_table(
   )
 )
 
-# 24. FIGURE 6.17 — PARTITION SENSITIVITY TO GEOMETRY
-# -----------------------------------------------------------------------------
+# FIGURE 6.17 — PARTITION SENSITIVITY TO GEOMETRY
 
 message("Figure: partition sensitivity to geometry.")
 
@@ -2407,10 +2375,9 @@ write_result_table(
   )
 )
 
-# -----------------------------------------------------------------------------
 
-# 26. FIGURE 6.19 — ADJACENT-ELECTION PARTITION STABILITY
-# -----------------------------------------------------------------------------
+
+# FIGURE 6.19 — ADJACENT-ELECTION PARTITION STABILITY
 
 message("Figure: adjacent-election temporal stability.")
 
@@ -2483,9 +2450,9 @@ save_thesis_plot(
   results_temporal_dir
 )
 
-# -----------------------------------------------------------------------------
-# 27. FIGURE 6.20 — LOWEST-STABILITY TRANSITION MATRICES
-# -----------------------------------------------------------------------------
+
+# FIGURE 6.20 — LOWEST-STABILITY TRANSITION MATRICES
+
 
 message("Figure: selected transition matrices.")
 
@@ -2615,12 +2582,7 @@ save_thesis_plot(
   results_temporal_dir
 )
 
-# -----------------------------------------------------------------------------
-
-# 29. OPTIONAL APPENDIX FIGURE — GEOMETRY-SPECIFIC DISTANCE ALIGNMENT BY YEAR
-# -----------------------------------------------------------------------------
-# This figure is useful if the main geometry heatmap needs an election-specific
-# robustness companion. It is deliberately placed in the appendix.
+# GEOMETRY-SPECIFIC DISTANCE ALIGNMENT BY YEAR
 
 geometry_pairs_election <- read_required_csv(
   file.path(
@@ -2698,18 +2660,13 @@ save_thesis_plot(
   results_appendix_dir
 )
 
-# -----------------------------------------------------------------------------
 
 
-
-# =============================================================================
 # APPENDIX TABLES
-# =============================================================================
 
 
-# -----------------------------------------------------------------------------
 # ALL C=4 TRANSITION MATRICES + REPRESENTATIVE LOW / TYPICAL / HIGH CASES
-# -----------------------------------------------------------------------------
+
 
 transition_all_dir <- file.path(
   results_temporal_dir,
@@ -3146,13 +3103,10 @@ write_latex_longtable(
   digits = 4
 )
 
-# -----------------------------------------------------------------------------
-# Reproducibility snapshot
-# -----------------------------------------------------------------------------
-
+#reproducibility
 writeLines(
   capture.output(sessionInfo()),
-  file.path(results_table_dir, "results_nonmap_figures_sessionInfo.txt")
+  file.path(results_table_dir, "results_nonmap_figures_sessionInfo.txt") # documenta versione R e pacchetti
 )
 
 message("Non-map Results figures complete.")
