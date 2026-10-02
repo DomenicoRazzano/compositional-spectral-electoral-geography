@@ -5,6 +5,6 @@ type: software
 authors:
   - family-names: "Razzano"
     given-names: "Domenico"
-version: "1.0.1"
-date-released: "2026-09-30"
+version: "1.0.2"
+date-released: "2026-10-03"
 repository-code: "https://github.com/DomenicoRazzano/compositional-spectral-electoral-geography"
