@@ -43,14 +43,3 @@ See [`05\\\_data/README.md`](05_data/README.md) and [`07\\\_outputs/README.md`](
 Electoral source files derive from the Italian Ministry of the Interior electoral open-data archive. Territorial harmonization uses ISTAT administrative and historical territorial material.
 
 Third-party data retain the attribution and reuse terms of their original providers.
-
-## Citation
-
-Citation metadata are provided in `CITATION.cff`. The archived release is also preserved through Zenodo.
-
-## License
-
-Original analysis code is released under the MIT License. Third-party datasets and geographic materials retain their original licensing conditions.
-
-
-
